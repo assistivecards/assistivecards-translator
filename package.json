@@ -1,0 +1,25 @@
+{
+  "name": "assistivecards-translator",
+  "version": "1.0.0",
+  "description": "UI translator for assistivecards",
+  "main": "index.js",
+  "scripts": {
+    "translate:win": "set GOOGLE_APPLICATION_CREDENTIALS=C:/token.json&& node scripts/translate-ui.js",
+    "translate:mac": "export GOOGLE_APPLICATION_CREDENTIALS=C:/token.json&& node scripts/translate-ui.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assistivecards/assistivecards-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/assistivecards/assistivecards-api/issues"
+  },
+  "homepage": "https://github.com/assistivecards/assistivecards-api#readme",
+  "dependencies": {
+    "@google-cloud/translate": "^6.1.0",
+    "emoji-strip": "^1.0.1",
+    "node-fetch": "^2.6.1"
+  }
+}
