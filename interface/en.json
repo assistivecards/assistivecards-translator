@@ -44,6 +44,7 @@
 	"settings_notifications_tipsAndPromo_promotion_description": "Let us notify you when we have a discount for the subscription",
 
 	"settings_selection_subscriptions": "Subscriptions",
+	"settings_selection_iap":"In-App Purchases",
 	"settings_subscriptions_description": "Manage your subscriptions and Wingo Premium purchases and switch between plans.",
 	"settings_subscriptions_cancel_notice": "In order to cancel a subscription, please go to your device or market settings and subscriptions.",
 	"settings_subscriptions_downgrade_notice": "You can't downgrade your lifetime premium subscription.",
@@ -60,6 +61,7 @@
 	"settings_apps_description": "Discover other apps made by Assistive Cards",
 
 	"settings_selection_signout": "Sign Out",
+	"settings_selection_delete_account" : "Delete Account",
 	"settings_selection_sendFeedback": "Send Feedback",
 	"settings_selection_openSourceLicenses": "Open Source Licenses",
 	"settings_selection_privacyPolicy": "Privacy Policy",
@@ -93,6 +95,7 @@
 	"settings_share_message": "Wingo helps non-verbal kids to communicate with their parents, teachers and friends.",
 	"settings_share_url": "https://assistivecards.com/games/",
 	"settings_selection_share_the_app": "Share this App",
+	"settings_selection_share_games": "Share Games",
 	"settings_selection_rate_the_app": "Rate this App",
 	"settings_profile_active": "ACTIVE",
 
@@ -140,13 +143,15 @@
 
 
 
-	"premium_title": "Unlock $1 Premium!",
+	"premium_title": "Unlock Premium!",
+	"premium_promo_unlock_play_more": "Unlock to Play More Pack",
 	"premium_description": "Our game is a free to play game, but you can unlock +50 additional premium Assistive Card packs to play with.",
 	"premium_monthly": "Monthly",
 	"premium_yearly": "Yearly",
 	"premium_yearly_sub": "3 days FREE Trial",
 	"premium_then_info": "Then $1/year",
 	"premium_lifetime": "Lifetime",
+	"premium_unlock_all_packs": "Unlock All Packs",
 	"premium_lifetime_oneTime": "One-time Payment",
 	"premium_save_percent": "SAVE $1%",
 	"premium_monthly_priceShow": "$1/mo",
@@ -209,5 +214,7 @@
 	"difficulty_selection_easy":"Easy",
 	"difficulty_selection_normal":"Normal",
 	"difficulty_selection_hard":"Hard",
-	"play":"Play"
+	"play":"Play",
+	"warning-nickname":"Nickname is too long!",
+	"circle_the_card":"Circle the $1"
 }

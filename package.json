@@ -4,8 +4,8 @@
   "description": "UI translator for assistivecards",
   "main": "index.js",
   "scripts": {
-    "translate:win": "set GOOGLE_APPLICATION_CREDENTIALS=C:/token.json&& node scripts/translate-ui.js",
-    "translate:mac": "export GOOGLE_APPLICATION_CREDENTIALS=C:/token.json&& node scripts/translate-ui.js"
+    "start": "npm run translate",
+    "translate": "export GOOGLE_APPLICATION_CREDENTIALS=~/token.json&& set GOOGLE_APPLICATION_CREDENTIALS=C:/token.json&& node scripts/translate-ui.js",
   },
   "repository": {
     "type": "git",
