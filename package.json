@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run translate",
-    "translate": "export GOOGLE_APPLICATION_CREDENTIALS=~/token.json&& set GOOGLE_APPLICATION_CREDENTIALS=C:/token.json&& node scripts/translate-ui.js",
+    "translate": "export GOOGLE_APPLICATION_CREDENTIALS=~/token.json&& set GOOGLE_APPLICATION_CREDENTIALS=C:/token.json&& node scripts/translate-ui.js"
   },
   "repository": {
     "type": "git",
