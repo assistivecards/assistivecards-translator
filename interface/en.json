@@ -60,6 +60,9 @@
 	"settings_selection_apps_new": "NEW",
 	"settings_apps_description": "Discover other apps made by Assistive Cards",
 
+	"settings_selection_games": "All Games",
+	"settings_games_description": "Discover other games made by Assistive Cards",
+
 	"settings_selection_signout": "Sign Out",
 	"settings_selection_delete_account" : "Delete Account",
 	"settings_selection_sendFeedback": "Send Feedback",
@@ -81,6 +84,8 @@
 	"settings_accessibility_sensory_pressIn_description": "If enabled all the touch events gets fired when a pressable is Pressed in, instead of waiting for Press out",
 	"settings_accessibility_greeding_on_start": "Voice Greeting on Start",
 	"settings_accessibility_greeding_on_start_description": "If disabled, app will not greed user with voice",
+	"settings_accessibility_tutorial_enable": "Enable Tutorial",
+	"settings_accessibility_tutorial_enable_description": "If disabled, app will not show tutorial",
 
 	"settings_removeMyData_description": "Learn how we collect data and ask us to remove the collected data",
 	"settings_removeMyData_p1": "We do not collect Personally Identifiable Information (PII) for kids, minors or intellectually disabled users with appointed guardians.",
@@ -215,6 +220,20 @@
 	"difficulty_selection_normal":"Normal",
 	"difficulty_selection_hard":"Hard",
 	"play":"Play",
+	"score":"Score: ",
 	"warning-nickname":"Nickname is too long!",
-	"circle_the_card":"Circle the $1"
+	"circle_the_card":"Circle the $1",
+	"collect_5_cards":"Collect 5 $1",
+	"collect_cards":"Collect $1!",
+	"settings_tts":"Text-to-Speech",
+	"find_the_card":"Find the $1",
+	"paint_the_card":"Paint the $1",
+	"cut_the_rope_text":"Cut the rope for $1",
+	"throw_the_card":"Throw the $1 into the bucket",
+	"drag_the_card":"Drag the $1 cards inside",
+	"press_on_the_card":"Press on the $1 $2 times",
+	"draw_text":"Draw a $2 around the $1",
+	"stack_the_cards":"Stack the same cards",
+	"whack_text":"Whack the $1 cards",
+	"find_the_cards":"Find the $1 cards"
 }
